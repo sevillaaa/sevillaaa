@@ -88,7 +88,7 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
 
 ### ✍️ **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevillaaa/sevillaaa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sevillaaa/sevillaaa/output/github-snake.svg" />
