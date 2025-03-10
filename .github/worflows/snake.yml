@@ -13,7 +13,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
@@ -23,7 +23,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for
-          github_user_name: sevillaaa
+          github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
