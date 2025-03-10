@@ -8,7 +8,7 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
 
 ⚡ Fun fact: I like design more than coding 😉
 
-## 🌐 Socials
+## 🌐 **Socials**
 <img align="right" height="150" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 <div align="left">
   <a href="https://dribbble.com/claudeing" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="35" alt="dribble logo"  /></a><br>
@@ -17,7 +17,7 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
 </div>
 <img height="35">
 
-## 🌚 Tech
+## 🌚 **Tech**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />&nbsp;&nbsp;&nbsp;
   <img width="12" />
@@ -76,7 +76,9 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
   <img src="https://shop.filamentphp.com/cdn/shop/files/Logo-2.png" height="30" alt="filament logo"  />&nbsp;&nbsp;&nbsp;
 </div>
 
-###
+## 📊**Github Stats**
+
+
 <br clear="both">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
