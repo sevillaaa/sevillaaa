@@ -4,8 +4,6 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
 💬 Ask me about anything!<br>
 📫 How to reach me: `sevilla.depari04@gmail.com`<br>
 
-***sevillaaa/sevillaaa*** <br>
-
 ⚡ Fun fact: I like design more than coding 😉
 
 ## 🌐 **Socials**
@@ -17,7 +15,7 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
 </div>
 <img height="35">
 
-## 🌚 **Tech**
+## 🌚 **Tech Stack**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />&nbsp;&nbsp;&nbsp;
   <img width="12" />
@@ -76,8 +74,11 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
   <img src="https://shop.filamentphp.com/cdn/shop/files/Logo-2.png" height="30" alt="filament logo"  />&nbsp;&nbsp;&nbsp;
 </div>
 
-## 📊**Github Stats**
-
+## 📊 **Github Stats**
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sevillaaa&show_icons=true&theme=radical" height="165"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" height="165" />
+</div>
 
 <br clear="both">
 <p align="center">
