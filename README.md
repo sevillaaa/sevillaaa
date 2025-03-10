@@ -78,9 +78,16 @@ I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Ut
 ## 📊 **Github Stats**
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sevillaaa&show_icons=true&theme=radical" height="165"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" height="165" />
+  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" height="165" /><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sevillaaa&theme=dark&hide_border=false" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevillaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165">
 </div>
 
+## 🏆 **GitHub Trophies**
+![](https://github-profile-trophy.vercel.app/?username=sevillaaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br clear="both">
 
 <picture>
