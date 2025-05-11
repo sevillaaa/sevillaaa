@@ -1,5 +1,5 @@
-## ***Hi there*** 👋
-I'm **Sevilla Claudia Depari**, a second year student at Universitas Sumatera Utara 💻<br>
+## ***Hi there*** 👋 I'm **Sevilla.**
+A second year student at Universitas Sumatera Utara 💻<br>
 🌱 I’m currently learning Web Development, Mobile Development, Design, Cybersecurity, AI, and more!<br>
 💬 Ask me about anything!<br>
 📫 How to reach me: `sevilla.depari04@gmail.com`<br>
