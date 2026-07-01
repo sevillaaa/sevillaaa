@@ -18,49 +18,9 @@ A second year student at Universitas Sumatera Utara 💻<br>
 
 ## 🌚 **Tech Stack**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> &nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="react logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="typescript logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="typescript logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="css3 logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />&nbsp;&nbsp;&nbsp;
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="30" alt="livewire logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />&nbsp;&nbsp;&nbsp;
   <img width="12" />
@@ -68,23 +28,7 @@ A second year student at Universitas Sumatera Utara 💻<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
   </a> &nbsp;&nbsp;&nbsp;
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="csharp logo"  />&nbsp;&nbsp;&nbsp;
-  <img width="12" />
-  <img src="https://shop.filamentphp.com/cdn/shop/files/Logo-2.png" height="30" alt="filament logo"  />&nbsp;&nbsp;&nbsp;
 </div>
-
-## 📊 **Github Stats**
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sevillaaa&show_icons=true&theme=radical" height="165"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" height="165" /><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sevillaaa&theme=dark&hide_border=false" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevillaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165">
-</div>
-
-## 🏆 **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=sevillaaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
